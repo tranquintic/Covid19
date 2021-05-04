@@ -3,6 +3,11 @@
 ## Jupyter Notebook
 Installation details can be found at: https://jupyter.org/install
 
+# Content of the repository
+1. README.md - instructions for local setup and summary of the analysis
+2. covid19CookCounty.ipynb - the notebook for python codes and analysis
+3. Cook-Illinois.csv - the output file for Covid 19 cases and deaths of Cook county, Illinois
+
 # Local setup
 ## Clone project from git repo:
 git clone https://github.com/tranquintic/Covid19.git
